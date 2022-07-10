@@ -1,4 +1,4 @@
-package com.tryton.template.exception.handler;
+package com.tryton.res_kitchen_service.exception.handler;
 
 import lombok.extern.apachecommons.CommonsLog;
 import org.springframework.http.HttpHeaders;

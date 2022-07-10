@@ -1,4 +1,4 @@
-package com.tryton.template.config;
+package com.tryton.res_kitchen_service.config;
 
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;

@@ -1,4 +1,4 @@
-package com.tryton.template.mapper;
+package com.tryton.res_kitchen_service.mapper;
 
 import org.apache.ibatis.annotations.Select;
 

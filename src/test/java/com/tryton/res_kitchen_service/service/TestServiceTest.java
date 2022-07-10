@@ -1,7 +1,7 @@
-package com.tryton.template.service;
+package com.tryton.res_kitchen_service.service;
 
-import com.tryton.template.mapper.TestMapper;
-import com.tryton.template.mapper.XmlTestMapper;
+import com.tryton.res_kitchen_service.mapper.TestMapper;
+import com.tryton.res_kitchen_service.mapper.XmlTestMapper;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

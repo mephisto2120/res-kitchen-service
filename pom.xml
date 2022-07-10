@@ -269,7 +269,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<version>${spring.boot.version}</version>
 				<configuration>
-					<mainClass>com.tryton.template.Launcher</mainClass>
+					<mainClass>com.tryton.res_kitchen_service.Launcher</mainClass>
 					<layout>JAR</layout>
 				</configuration>
 				<executions>
