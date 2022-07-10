@@ -4,9 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.tryton</groupId>
-	<artifactId>service-template</artifactId>
+	<artifactId>res-kitchen-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>service-template</name>
+	<name>res-kitchen-service</name>
 
 	<description>REST service template</description>
 
